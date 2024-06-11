@@ -2,10 +2,10 @@
 title: 黄埔技术中心知识库
 description: 欢迎来到黄埔技术中心知识库！
 published: true
-date: 2024-06-11T02:28:59.054Z
+date: 2024-06-11T02:07:18.828Z
 tags: 公司简介,使命，介绍
 editor: markdown
-dateCreated: 2024-06-06T23:17:41.203Z
+dateCreated: 2024-06-07T09:03:14.116Z
 ---
 
 # 黄埔知识库首页
