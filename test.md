@@ -2,7 +2,7 @@
 title: 测试
 description: 测试
 published: true
-date: 2024-06-12T01:44:17.037Z
+date: 2024-06-12T01:46:37.544Z
 tags: 测试
 editor: markdown
 dateCreated: 2024-06-07T00:15:17.804Z
@@ -20,7 +20,7 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 ﻿本章主要讲解McgsPro组态软件产品构成。	
 
 ## <a name="_toc316503335"></a><a name="_toc49767120"></a>**1.1 软件简介**	
-![图片1.png](/图片1.png)
+![./images/图片1.png](/图片1.png)
 图1.1-1 McgsPro组态软件界面
 
 
