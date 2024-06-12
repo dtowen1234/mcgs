@@ -2,7 +2,7 @@
 title: 测试
 description: 测试
 published: true
-date: 2024-06-11T02:29:02.488Z
+date: 2024-06-12T01:39:02.376Z
 tags: 测试
 editor: markdown
 dateCreated: 2024-06-07T00:15:17.804Z
@@ -15,16 +15,22 @@ dateCreated: 2024-06-07T00:15:17.804Z
 PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxMjFweCIgaGVpZ2h0PSIxNzFweCIgdmlld0JveD0iLTAuNSAtMC41IDEyMSAxNzEiIGNvbnRlbnQ9IiZsdDtteGZpbGUgaG9zdD0mcXVvdDtlbWJlZC5kaWFncmFtcy5uZXQmcXVvdDsgbW9kaWZpZWQ9JnF1b3Q7MjAyNC0wNi0wN1QwNjozNDo0OS44ODRaJnF1b3Q7IGFnZW50PSZxdW90O01vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjUuMC4wLjAgU2FmYXJpLzUzNy4zNiBFZGcvMTI1LjAuMC4wJnF1b3Q7IHZlcnNpb249JnF1b3Q7MjQuNS4xJnF1b3Q7IGV0YWc9JnF1b3Q7NGk5VnBBdC0wSC02UlN0Ty0zeEkmcXVvdDsgdHlwZT0mcXVvdDtlbWJlZCZxdW90OyZndDsmbHQ7ZGlhZ3JhbSBpZD0mcXVvdDs3UG9GOUljMkRDRTRDNnc3ZlhxeiZxdW90OyBuYW1lPSZxdW90O+esrCAxIOmhtSZxdW90OyZndDt4Wk5OVTRRd0RJWi9EWGRLSGR5OWlxdGVQSEh3M0tHUmRxWlFwbHNFL1BVR20vSXg2NDdyeVJQSms2Uk4zcFNFRjgzNDdFU25YcTBFazJTcEhCUCttR1FaUzlNTVB6T1pBc2xUSGtEdHRLU2tGWlQ2RTJJbDBWNUxPTzhTdmJYRzYyNFBLOXUyVVBrZEU4N1pZWi8yYnMzKzFrN1VjQUhLU3BoTCtxYWxWNEVlc3Z1VnY0Q3VWYnlaNWNjUWFVUk1wa25PU2tnN2JCQS9KYnh3MXZwZ05XTUJaaFl2NmhMcW5xNUVsOFljdFA2V0FsckVoekE5elVaOStTa09pd1dvS3pvUGc5SWV5azVVYzJUQTFTSlR2akhvTVRUcEtIQWV4cXZ0c0dWSWZCMWdHL0J1d2hRcTRFZlNoUjRHSjNkWVZXWlJPclZSK0VCTTBHTHI1ZVIxZGpSby9KK2w0TDlMNFd6ZlNwanowMytSZzkzZHFFZitkejNRWFovZGQyeno4L0xURnc9PSZsdDsvZGlhZ3JhbSZndDsmbHQ7L214ZmlsZSZndDsiPjxkZWZzLz48Zz48Zz48ZWxsaXBzZSBjeD0iNjAiIGN5PSI0MCIgcng9IjYwIiByeT0iNDAiIGZpbGw9InJnYigyNTUsIDI1NSwgMjU1KSIgc3Ryb2tlPSJyZ2IoMCwgMCwgMCkiIHBvaW50ZXItZXZlbnRzPSJhbGwiLz48L2c+PGc+PHJlY3QgeD0iMCIgeT0iMTEwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjYwIiBmaWxsPSJyZ2IoMjU1LCAyNTUsIDI1NSkiIHN0cm9rZT0icmdiKDAsIDAsIDApIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PC9nPjwvZz48L3N2Zz4=
 ```
 
-
-
-
-# 第二章
-
-江南的雨一下就是一个季节，延绵细雨，使人感觉让生命留在青春的岁月里，流年岁月，收纳空白，收纳了我们的所有的乐趣。是春雨把它冲刷了么，我却不曾当得知，雨季使人们有了臆想的时空，但没有人知道怎么去欣赏它。季节展开了它封存已久的封面，雨季浸湿了衣裳，很多人并没有惊喜，只是一个渐变，没有一点张扬，只是感受生命在这个延绵雨季之中的一种价值。于我而言，我喜欢在雨季坐在窗前发呆，看着远方的天宇处下着淅淅沥沥的雨，聆听淡漠的音乐，看着雨飘进自己的心中的某一方净土，回想着消逝的时光，或是不停的踱步，品着茶，沉想着时光的易逝和生命的不可预约，这是我的雨季，我一个生命最美的时光。
-
-[test001.txt](/test001.txt)
-# 第三章
-
-来到仁里的这些时间里，我们都感叹，时间去哪了？是流走了么？其实自己而不曾得知，很多时候，我只是在不断的想着把我在基层里遇到的最美的时光留下一个深深的印记。正时此刻，在仁里的这几个月，却让我发现了最美的景象“仁里的雨季”，雾色中留下的深深的痕迹这便是这里的雨，它毫不留情的下了整整一个季节，让人欢喜让人忧，欢喜的是小孩们可以在雨中嘻戏，欢喜的是情侣可以在雨中漫步，然而更是欢喜的是人们可以在田间开始劳作一年的庄家，当你走到这里，或许仁里能给你最美的印象。
-
 [44.docx](/44.docx)
+
+﻿本章主要讲解McgsPro组态软件产品构成。	
+
+## <a name="_toc316503335"></a><a name="_toc49767120"></a>**1.1 软件简介**	
+
+><a name="_toc316503337"></a>图1.1-1 McgsPro组态软件界面
+
+McgsPro组态软件拥有强大的界面显示组态功能、丰富的功能模块、良好的开放性、强大的数据库、可编程的脚本命令、完善的安全机制、便捷的仿真功能，可适应不同用户的需要。广泛应用于电力设备、纺织机械、生产设备、铁路行业、橡胶机械、中央空调、印刷机械、重工机械等行业。
+
+## <a name="_toc49767121"></a>**1.2 产品结构**
+
+McgsPro组态软件是昆仑通态研发的人机界面产品的一部分。人机界面产品由以下四个部分组成：
+
+- McgsPro组态软件：安装、运行于PC端，自动化工程师在此完成McgsPro工程开发和调试工作；
+- McgsPro运行环境：用于运行用户开发的McgsPro工程，标准TPC产品自带McgsPro运行环境；
+- TPC系统NK：系统NK可以简单的看作TPC的操作系统，McgsPro运行环境就运行在TPC系统NK中，标准TPC产品自带系统NK；
+- TPC：昆仑通态生产的HMI人机界面，提供工程运行的硬件平台。
+
