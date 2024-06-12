@@ -2,7 +2,7 @@
 title: 测试
 description: 测试
 published: true
-date: 2024-06-12T01:42:44.698Z
+date: 2024-06-12T01:44:17.037Z
 tags: 测试
 editor: markdown
 dateCreated: 2024-06-07T00:15:17.804Z
@@ -20,9 +20,9 @@ PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
 ﻿本章主要讲解McgsPro组态软件产品构成。	
 
 ## <a name="_toc316503335"></a><a name="_toc49767120"></a>**1.1 软件简介**	
-
-><a name="_toc316503337"></a>图1.1-1 McgsPro组态软件界面
 ![图片1.png](/图片1.png)
+图1.1-1 McgsPro组态软件界面
+
 
 McgsPro组态软件拥有强大的界面显示组态功能、丰富的功能模块、良好的开放性、强大的数据库、可编程的脚本命令、完善的安全机制、便捷的仿真功能，可适应不同用户的需要。广泛应用于电力设备、纺织机械、生产设备、铁路行业、橡胶机械、中央空调、印刷机械、重工机械等行业。
 
